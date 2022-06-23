@@ -1,4 +1,4 @@
-Kodekloud CKS Challenge - 3 Solution
+Kodekloud CKS Challenge - 3 Solutions
 
 This is a two node kubernetes cluster. Using the kube-bench utility, identify and fix all the issues that were reported as failed for the controlplane and the worker node components.
 
